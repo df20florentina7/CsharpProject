@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest>
+  <Quest>
+    <QuestText>How old am I?</QuestText>
+    <QuestAnswer>20</QuestAnswer>
+  </Quest>
+  <Quest>
+    <QuestText>How was my day?</QuestText>
+    <QuestAnswer>good</QuestAnswer>
+  </Quest>
+  <Quest>
+    <QuestText>What year am I in?</QuestText>
+    <QuestAnswer>2023</QuestAnswer>
+  </Quest>
+  <Quest>
+    <QuestText>What is my favorite beverage?</QuestText>
+    <QuestAnswer>coffee</QuestAnswer>
+  </Quest>
+  <Quest>
+    <QuestText>What is my favorite football player?</QuestText>
+    <QuestAnswer>Neymar</QuestAnswer>
+  </Quest>
+</quest>
