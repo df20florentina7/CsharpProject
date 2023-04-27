@@ -1,5 +1,4 @@
-# AccesaInternship
-Rezolvare problema internship.
+# C sharp project.
 ***
 ## Tehnologies
 Aplicatia a fost realizat folosind limbajul de programare C#, folosind framework-ul .NET 6.0.
